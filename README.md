@@ -1,2 +1,4 @@
 # react_start
-start of react training
+<div id="header" align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/1*a-HMmQFQNC76zCZBZfFgJg.gif" width="100"/>
+</div>
